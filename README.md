@@ -1,3 +1,10 @@
+
+URL of the Deployed app:  https://customercheck-in-predictify.herokuapp.com/
+
+Question2:
+
+One of the difficult problem I have solved is " analysing the data". Because I can't find any details about the dataset anywhere. So Each and every terminologies are not understood initially. I took a long time to understand the data on my own and I have done the analysis. 
+
 Question 2:
 
 i) BackPropogation:
