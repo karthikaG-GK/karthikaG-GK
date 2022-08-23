@@ -44,3 +44,7 @@ chi square test.
 for the missing values.
     If the particular feature contains binary values.. we can use logistic regression to predict the missing values
     If the particular feature contains continous values we can use linear regression or some other regression algorithms to find the missing values.
+    
+    
+    How I deployed the project:
+     I used flask frame work to build a web application and Then I deployed my project in heroku to make it world wide.
